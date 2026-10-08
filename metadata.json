@@ -1,0 +1,7 @@
+{
+  "name": "Mon Manuel de Français - Grade 2",
+  "description": "Interactive Grade 2 French textbook featuring 11 structured chapters with pronunciation, grammar lessons, vocabulary drills, exercises, revision, and printable exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
